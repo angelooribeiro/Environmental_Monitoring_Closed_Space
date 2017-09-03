@@ -1,0 +1,15 @@
+INSERT INTO tab_parameter (CO2_Limit,Upper_Temperature,Lower_Temperature, Upper_Humidity,Lower_Humidity, Phone_number,date_parameter,time_parameter) VALUES (1500,30,15,80,20,915900217,'2017-02-04','03:41:15');
+
+INSERT INTO tab_parameter (CO2_Limit,Upper_Temperature,Lower_Temperature, Upper_Humidity,Lower_Humidity, Phone_number,date_parameter,time_parameter) VALUES (1500.0,35.0,15.0,80.0,20,915900217,'2017-02-04','10:30:25');
+
+INSERT INTO tab_parameter (CO2_Limit,Upper_Temperature,Lower_Temperature, Upper_Humidity,Lower_Humidity, Phone_number,date_parameter,time_parameter) VALUES (1600,35,15,80,20,915900217,'2017-02-05','00:41:02');
+
+INSERT INTO tab_read (id_Parameter,Hum,Tem,CO2,date_read,time_read) VALUES (1,52.3,26.1,1302.1,'2017/02/04','03:42:58');
+INSERT INTO tab_read (id_Parameter,Hum,Tem,CO2,date_read,time_read) VALUES (1,52.4,27.2,1312.1'2017/02/04','03:45:12');
+INSERT INTO tab_read (id_Parameter,Hum,Tem,CO2,date_read,time_read) VALUES (1,52.1,28.1,1322.1,'2017/02/04','03:52:52');
+INSERT INTO tab_read (id_Parameter,Hum,Tem,CO2,date_read,time_read) VALUES (1,50.3,29.9,1362.1,'2017/02/04','03:52:53');
+INSERT INTO tab_read (id_Parameter,Hum,Tem,CO2,date_read,time_read) VALUES (1,49.3,31.1,1432.1,'2017/02/04','04:07:27');
+INSERT INTO tab_read (id_Parameter,Hum,Tem,CO2,date_read,time_read) VALUES (2,52.3,31.2,1449.3,'2017/02/04','10:32:31');
+INSERT INTO tab_read (id_Parameter,Hum,Tem,CO2,date_read,time_read) VALUES (2,52.3,31.4,1472.1,'2017/02/04','10:32:31');
+INSERT INTO tab_read (id_Parameter,Hum,Tem,CO2,date_read,time_read) VALUES (2,52.3,32.2,1525.2,'2017/02/04','19:12:02');
+INSERT INTO tab_read (id_Parameter,Hum,Tem,CO2,date_read,time_read) VALUES (3,59.3,29.1,1302.1,'2017/02/04','01:42:58');

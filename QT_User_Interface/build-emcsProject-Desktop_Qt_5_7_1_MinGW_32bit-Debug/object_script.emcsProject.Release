@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\cprmdialog.o
+./release\cdatabase.o
+./release\readdialog.o
+./release\calertdialog.o
+./release\moc_mainwindow.o
+./release\moc_cprmdialog.o
+./release\moc_cdatabase.o
+./release\moc_readdialog.o
+./release\moc_calertdialog.o
+);
